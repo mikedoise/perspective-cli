@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		11B5980E25AFFE9500D48F4A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11B5980D25AFFE9500D48F4A /* main.swift */; };
 		11B5981625B0002C00D48F4A /* ConsoleIO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11B5981525B0002C00D48F4A /* ConsoleIO.swift */; };
-		11B5981925B0022300D48F4A /* VisionCMD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11B5981825B0022300D48F4A /* VisionCMD.swift */; };
+		11B5981925B0022300D48F4A /* perspective-cli.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11B5981825B0022300D48F4A /* perspective-cli.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,7 +29,7 @@
 		11B5980A25AFFE9500D48F4A /* perspective-cli */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "perspective-cli"; sourceTree = BUILT_PRODUCTS_DIR; };
 		11B5980D25AFFE9500D48F4A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		11B5981525B0002C00D48F4A /* ConsoleIO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConsoleIO.swift; sourceTree = "<group>"; };
-		11B5981825B0022300D48F4A /* VisionCMD.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionCMD.swift; sourceTree = "<group>"; };
+		11B5981825B0022300D48F4A /* perspective-cli.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "perspective-cli.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 				11B0219625B2113F00E7EBA0 /* perspective-cli.entitlements */,
 				11B5980D25AFFE9500D48F4A /* main.swift */,
 				11B5981525B0002C00D48F4A /* ConsoleIO.swift */,
-				11B5981825B0022300D48F4A /* VisionCMD.swift */,
+				11B5981825B0022300D48F4A /* perspective-cli.swift */,
 			);
 			path = "perspective-cli";
 			sourceTree = "<group>";
@@ -129,7 +129,7 @@
 			files = (
 				11B5980E25AFFE9500D48F4A /* main.swift in Sources */,
 				11B5981625B0002C00D48F4A /* ConsoleIO.swift in Sources */,
-				11B5981925B0022300D48F4A /* VisionCMD.swift in Sources */,
+				11B5981925B0022300D48F4A /* perspective-cli.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

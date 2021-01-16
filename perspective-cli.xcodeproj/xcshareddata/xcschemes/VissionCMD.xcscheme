@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "11B5980925AFFE9500D48F4A"
-               BuildableName = "perspective-CLI"
-               BlueprintName = "perspective-CLI"
+               BuildableName = "perspective-cli"
+               BlueprintName = "perspective-cli"
                ReferencedContainer = "container:perspective-cli.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,8 +45,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "11B5980925AFFE9500D48F4A"
-            BuildableName = "perspective-CLI"
-            BlueprintName = "perspective-CLI"
+            BuildableName = "perspective-cli"
+            BlueprintName = "perspective-cli"
             ReferencedContainer = "container:perspective-cli.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -68,8 +68,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "11B5980925AFFE9500D48F4A"
-            BuildableName = "perspective-CLI"
-            BlueprintName = "perspective-CLI"
+            BuildableName = "perspective-cli"
+            BlueprintName = "perspective-cli"
             ReferencedContainer = "container:perspective-cli.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

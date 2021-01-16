@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/michaeldoise/VissionCMD/perspective-CLI.xcodeproj">
+      location = "self:/Users/michaeldoise/VissionCMD/perspective-cli.xcodeproj">
    </FileRef>
 </Workspace>
