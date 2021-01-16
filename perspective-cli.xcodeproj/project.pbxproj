@@ -25,7 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		11B0219625B2113F00E7EBA0 /* VissionCMD.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = VissionCMD.entitlements; sourceTree = "<group>"; };
+		11B0219625B2113F00E7EBA0 /* perspective-cli.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "perspective-cli.entitlements"; sourceTree = "<group>"; };
 		11B5980A25AFFE9500D48F4A /* perspective-cli */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "perspective-cli"; sourceTree = BUILT_PRODUCTS_DIR; };
 		11B5980D25AFFE9500D48F4A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		11B5981525B0002C00D48F4A /* ConsoleIO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConsoleIO.swift; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		11B5980125AFFE9500D48F4A = {
 			isa = PBXGroup;
 			children = (
-				11B5980C25AFFE9500D48F4A /* VissionCMD */,
+				11B5980C25AFFE9500D48F4A /* perspective-cli */,
 				11B5980B25AFFE9500D48F4A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -59,15 +59,15 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		11B5980C25AFFE9500D48F4A /* VissionCMD */ = {
+		11B5980C25AFFE9500D48F4A /* perspective-cli */ = {
 			isa = PBXGroup;
 			children = (
-				11B0219625B2113F00E7EBA0 /* VissionCMD.entitlements */,
+				11B0219625B2113F00E7EBA0 /* perspective-cli.entitlements */,
 				11B5980D25AFFE9500D48F4A /* main.swift */,
 				11B5981525B0002C00D48F4A /* ConsoleIO.swift */,
 				11B5981825B0022300D48F4A /* VisionCMD.swift */,
 			);
-			path = VissionCMD;
+			path = "perspective-cli";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -254,7 +254,7 @@
 		11B5981225AFFE9500D48F4A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_ENTITLEMENTS = VissionCMD/VissionCMD.entitlements;
+				CODE_SIGN_ENTITLEMENTS = "perspective-cli/perspective-cli.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6MU592HU8S;
@@ -268,7 +268,7 @@
 		11B5981325AFFE9500D48F4A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_ENTITLEMENTS = VissionCMD/VissionCMD.entitlements;
+				CODE_SIGN_ENTITLEMENTS = "perspective-cli/perspective-cli.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6MU592HU8S;
